@@ -27,20 +27,6 @@ function getLanguageContent(content,array){
     return content;
 }
 
-var Langs={
-    gameover_content1:"你的智商永远停留在童年，好可怜。",
-    gameover_content2:"你的智慧跟我的大波比差远了！",
-    gameover_content3:"你的智慧也就比我的脂肪多一点！",
-    gameover_content4:"人才！明天来我这搬砖！",
-    gameover_share:'我在《轻松一刻》智商测试中答对了$0道题。',
-    gameover_title:"我的情商为负分滚粗，一辈子注定孤单吧！",
-    gameover_title1:"我的情商为负分滚粗，一辈子注定孤单吧！",
-    gameover_title2:"我的情商一般，还是找个老实人过日子吧！",
-    gameover_title3:"风流才子就是我，约吗？",
-    gameover_title4:"我是情场圣手，七夕要左拥右抱！"
-}
-
-
 //随机从数组中取出num项元素
 function getRandomItemsFromArray(arr, num) {
     //新建一个数组,将传入的数组复制过来,用于运算,而不要直接操作传入的数组;
@@ -136,6 +122,47 @@ function getVariance(array){
     cc.log("sum,len:",sum,len);
     return value;
 }
+
+var Langs={
+    share_title1:"据说我是机器人，你敢约吗？",
+    share_title2:"心绪大好，可以约吗？",
+    share_title3:"跳跃思维是我的强项！你也来测试下吧～",
+    share_title4:"稳定的心绪是成功的保障！你今天躁了吗？来测～",
+
+    share_content1:"我在情绪测试中获得‘机器人’称号。",
+    share_content2:"我在情绪测试中获得‘可约人’称号。",
+    share_content3:"我在情绪测试中获得‘跳跳人’称号。",
+    share_content4:"我在情绪测试中获得‘稳稳哒’称号。",
+    share_content5:"我在情绪测试中获得‘不靠谱’称号。",
+
+    result1:"神人!你是机器人吗？",
+    result2:"情绪很不错，可以约吗？",
+    result3:"跳跃性思维是你的强项！",
+    result4:"稳定是你的强项，时间观念有待加强！！",
+    result5:"稳定是你的强项，但也太没时间观念了吧？",
+    result6:"你也太不靠谱了，没点时间观念吗？？"
+}
+
+var variance_levels={
+    level1:0.01,
+    level2:0.03,
+    level3:0.1
+}
+
+var error_levels={
+    level1:0.01,
+    level2:0.08,
+    level3:0.3
+}
+
+var result_types={
+    type1:"机器人",
+    type2:"可约人",
+    type3:"跳跳人",
+    type4:"稳稳哒",
+    type5:"不靠谱"
+}
+
 
 //
 var Global={

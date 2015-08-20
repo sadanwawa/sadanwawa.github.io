@@ -54,244 +54,6 @@
             "HorizontalEdge": "BothEdge",
             "VerticalEdge": "BothEdge",
             "Tag": 41,
-            "Children": [
-              {
-                "FontSize": 20,
-                "LabelText": "方差",
-                "OutlineColor": {
-                  "G": 0,
-                  "B": 0
-                },
-                "ShadowColor": {
-                  "R": 110,
-                  "G": 110,
-                  "B": 110
-                },
-                "AnchorPoint": {
-                  "ScaleX": 0.5,
-                  "ScaleY": 0.5
-                },
-                "Position": {
-                  "X": 459.5,
-                  "Y": 730.2631
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {},
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 0.718,
-                  "Y": 0.7607
-                },
-                "PreSize": {
-                  "X": 0.0,
-                  "Y": 0.0
-                },
-                "LeftMargin": 439.5,
-                "RightMargin": 160.5,
-                "TopMargin": 218.2369,
-                "BottomMargin": 718.7631,
-                "Tag": 53,
-                "ActionTag": -1658436019,
-                "Size": {
-                  "X": 40.0,
-                  "Y": 23.0
-                },
-                "Name": "Text_12",
-                "ctype": "TextObjectData"
-              },
-              {
-                "IsCustomSize": true,
-                "FontSize": 20,
-                "LabelText": "0.1243",
-                "OutlineColor": {
-                  "G": 0,
-                  "B": 0
-                },
-                "ShadowColor": {
-                  "R": 110,
-                  "G": 110,
-                  "B": 110
-                },
-                "AnchorPoint": {
-                  "ScaleX": 0.5,
-                  "ScaleY": 0.5
-                },
-                "Position": {
-                  "X": 556.5,
-                  "Y": 733.2631
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {},
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 0.8695,
-                  "Y": 0.7638
-                },
-                "PreSize": {
-                  "X": 0.1562,
-                  "Y": 0.024
-                },
-                "LeftMargin": 506.5,
-                "RightMargin": 33.5,
-                "TopMargin": 215.2369,
-                "BottomMargin": 721.7631,
-                "Tag": 54,
-                "ActionTag": -1646999604,
-                "Size": {
-                  "X": 100.0,
-                  "Y": 23.0
-                },
-                "Name": "txt_fangcha",
-                "ctype": "TextObjectData"
-              },
-              {
-                "FontSize": 20,
-                "LabelText": "情绪类型",
-                "OutlineColor": {
-                  "G": 0,
-                  "B": 0
-                },
-                "ShadowColor": {
-                  "R": 110,
-                  "G": 110,
-                  "B": 110
-                },
-                "AnchorPoint": {
-                  "ScaleX": 0.5,
-                  "ScaleY": 0.5
-                },
-                "Position": {
-                  "X": 475.5,
-                  "Y": 693.2631
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {},
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 0.743,
-                  "Y": 0.7221
-                },
-                "PreSize": {
-                  "X": 0.0,
-                  "Y": 0.0
-                },
-                "LeftMargin": 435.5,
-                "RightMargin": 124.5,
-                "TopMargin": 255.2369,
-                "BottomMargin": 681.7631,
-                "Tag": 55,
-                "ActionTag": -974710174,
-                "Size": {
-                  "X": 80.0,
-                  "Y": 23.0
-                },
-                "Name": "Text_12_1",
-                "ctype": "TextObjectData"
-              },
-              {
-                "FontSize": 20,
-                "LabelText": "稳定型",
-                "OutlineColor": {
-                  "G": 0,
-                  "B": 0
-                },
-                "ShadowColor": {
-                  "R": 110,
-                  "G": 110,
-                  "B": 110
-                },
-                "AnchorPoint": {
-                  "ScaleX": 0.5,
-                  "ScaleY": 0.5
-                },
-                "Position": {
-                  "X": 578.5,
-                  "Y": 694.2631
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {},
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 0.9039,
-                  "Y": 0.7232
-                },
-                "PreSize": {
-                  "X": 0.0,
-                  "Y": 0.0
-                },
-                "LeftMargin": 538.5,
-                "RightMargin": 21.5,
-                "TopMargin": 254.2369,
-                "BottomMargin": 682.7631,
-                "Tag": 56,
-                "ActionTag": -856826137,
-                "Size": {
-                  "X": 60.0,
-                  "Y": 23.0
-                },
-                "Name": "txt_type",
-                "ctype": "TextObjectData"
-              },
-              {
-                "FontSize": 20,
-                "LabelText": "结果分析：",
-                "OutlineColor": {
-                  "G": 0,
-                  "B": 0
-                },
-                "ShadowColor": {
-                  "R": 110,
-                  "G": 110,
-                  "B": 110
-                },
-                "AnchorPoint": {
-                  "ScaleX": 0.5,
-                  "ScaleY": 0.5
-                },
-                "Position": {
-                  "X": 485.5,
-                  "Y": 660.2631
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {},
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 0.7586,
-                  "Y": 0.6878
-                },
-                "PreSize": {
-                  "X": 0.0,
-                  "Y": 0.0
-                },
-                "LeftMargin": 435.5,
-                "RightMargin": 104.5,
-                "TopMargin": 288.2369,
-                "BottomMargin": 648.7631,
-                "Tag": 57,
-                "ActionTag": -434708725,
-                "Size": {
-                  "X": 100.0,
-                  "Y": 23.0
-                },
-                "Name": "Text_12_1_0",
-                "ctype": "TextObjectData"
-              }
-            ],
             "ActionTag": -1409678102,
             "Size": {
               "X": 640.0,
@@ -316,10 +78,13 @@
               "ScaleY": 1.0
             },
             "TouchEnable": true,
-            "AnchorPoint": {},
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
             "Position": {
-              "X": 24.5,
-              "Y": 352.7562
+              "X": 224.5,
+              "Y": 552.7562
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -328,8 +93,8 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.0383,
-              "Y": 0.3675
+              "X": 0.3508,
+              "Y": 0.5758
             },
             "PreSize": {
               "X": 0.625,
@@ -2451,6 +2216,251 @@
             "ctype": "PanelObjectData"
           },
           {
+            "FontSize": 20,
+            "LabelText": "方差",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 459.5,
+              "Y": 730.2631
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.718,
+              "Y": 0.7607
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 439.5,
+            "RightMargin": 160.5,
+            "TopMargin": 218.2369,
+            "BottomMargin": 718.7631,
+            "Tag": 53,
+            "ActionTag": -1658436019,
+            "Size": {
+              "X": 40.0,
+              "Y": 23.0
+            },
+            "Name": "Text_12",
+            "ctype": "TextObjectData"
+          },
+          {
+            "IsCustomSize": true,
+            "FontSize": 20,
+            "LabelText": "0.1243",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "VisibleForFrame": false,
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 556.5,
+              "Y": 733.2631
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.8695,
+              "Y": 0.7638
+            },
+            "PreSize": {
+              "X": 0.1562,
+              "Y": 0.024
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 506.5,
+            "RightMargin": 33.5,
+            "TopMargin": 215.2369,
+            "BottomMargin": 721.7631,
+            "Tag": 54,
+            "ActionTag": -1646999604,
+            "Size": {
+              "X": 100.0,
+              "Y": 23.0
+            },
+            "Name": "txt_fangcha",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "情绪类型",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 436.5,
+              "Y": 692.2631
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.682,
+              "Y": 0.7211
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 436.5,
+            "RightMargin": 123.5,
+            "TopMargin": 256.2369,
+            "BottomMargin": 680.7631,
+            "Tag": 55,
+            "ActionTag": -974710174,
+            "Size": {
+              "X": 80.0,
+              "Y": 23.0
+            },
+            "Name": "Text_12_1",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "稳定型",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 548.5,
+              "Y": 695.2631
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.857,
+              "Y": 0.7242
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 548.5,
+            "RightMargin": 31.5,
+            "TopMargin": 253.2369,
+            "BottomMargin": 683.7631,
+            "Tag": 56,
+            "ActionTag": -856826137,
+            "Size": {
+              "X": 60.0,
+              "Y": 23.0
+            },
+            "Name": "txt_type",
+            "ctype": "TextObjectData"
+          },
+          {
+            "FontSize": 20,
+            "LabelText": "结果分析：",
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "AnchorPoint": {
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 435.5,
+              "Y": 660.2631
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.6805,
+              "Y": 0.6878
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 435.5,
+            "RightMargin": 104.5,
+            "TopMargin": 288.2369,
+            "BottomMargin": 648.7631,
+            "Tag": 57,
+            "ActionTag": -434708725,
+            "Size": {
+              "X": 100.0,
+              "Y": 23.0
+            },
+            "Name": "Text_12_1_0",
+            "ctype": "TextObjectData"
+          },
+          {
             "FontSize": 36,
             "LabelText": "测试结束",
             "OutlineColor": {
@@ -2505,7 +2515,7 @@
           {
             "IsCustomSize": true,
             "FontSize": 20,
-            "LabelText": "你的情绪非常稳定。。适合从事精细的工作。／你不能很好的把控时间。。",
+            "LabelText": "你的情绪非常稳定。。适合从事精细的工作。／你不能很好的把控时间。。对时间超乎寻常的敏锐／",
             "OutlineColor": {
               "G": 0,
               "B": 0
@@ -2516,11 +2526,10 @@
               "B": 110
             },
             "AnchorPoint": {
-              "ScaleX": 0.5,
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 526.5,
+              "X": 436.5,
               "Y": 498.5625
             },
             "Scale": {
@@ -2530,7 +2539,7 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.8227,
+              "X": 0.682,
               "Y": 0.5193
             },
             "PreSize": {
@@ -2569,8 +2578,8 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 61.5,
-              "Y": 101.4688
+              "X": 62.5,
+              "Y": 160.4688
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -2579,8 +2588,8 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.0961,
-              "Y": 0.1057
+              "X": 0.0977,
+              "Y": 0.1672
             },
             "PreSize": {
               "X": 0.0,
@@ -2588,10 +2597,10 @@
             },
             "HorizontalEdge": "BothEdge",
             "VerticalEdge": "BothEdge",
-            "LeftMargin": 11.5,
-            "RightMargin": 528.5,
-            "TopMargin": 847.0312,
-            "BottomMargin": 89.9688,
+            "LeftMargin": 12.5,
+            "RightMargin": 527.5,
+            "TopMargin": 788.0312,
+            "BottomMargin": 148.9688,
             "Tag": 52,
             "ActionTag": 1692821785,
             "Size": {

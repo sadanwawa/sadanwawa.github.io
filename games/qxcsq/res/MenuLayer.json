@@ -16,7 +16,7 @@
         "Children": [
           {
             "FontSize": 48,
-            "LabelText": "情绪测试器",
+            "LabelText": "测测你有多精确？",
             "OutlineColor": {
               "G": 0,
               "B": 0
@@ -60,7 +60,7 @@
             "Tag": 5,
             "ActionTag": 1723298971,
             "Size": {
-              "X": 240.0,
+              "X": 384.0,
               "Y": 54.0
             },
             "Name": "txt_title",
